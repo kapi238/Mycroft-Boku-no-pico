@@ -3,17 +3,10 @@ https://rawgit.com/MycroftAI/mycroft-skills/master/meta_editor.html
 
 
 ## YOUR SKILL NAME
-One line description of the skill
+Best Anime
 
 ## Description 
-A more verbose description, including any extra instructions or
-information that didn't fit in the one line.
-
-## Examples 
-* "Hello world"
-* "Greetings planet earth"
-* "Count up"
-* "Count down"
+Tells you what the best anime is
 
 ## Credits 
-Your name
+Kyle Zhou
